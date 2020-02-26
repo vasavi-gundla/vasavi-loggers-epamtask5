@@ -1,0 +1,16 @@
+[main] INFO  com.epam.Loggers_Hometask5.Interest  - Enter the principal amount :
+[main] INFO  com.epam.Loggers_Hometask5.Interest  - Enter the time period :
+[main] INFO  com.epam.Loggers_Hometask5.Interest  - Enter the rate of interest per annum :
+[main] INFO  com.epam.Loggers_Hometask5.Interest  - Simple Interest :384.0
+[main] INFO  com.epam.Loggers_Hometask5.Interest  - Compound Interest :510.55812616912954
+[main] INFO  com.epam.Loggers_hometask5.Interest  - -------------------------------------
+[main] INFO  com.epam.Loggers_hometask5.Construction  - CONSTRUCTION COST ESTIMATION
+[main] INFO  com.epam.Loggers_hometask5.Construction  - Variants Available
+[main] INFO  com.epam.Loggers_hometask5.Construction  - 1. Construction with standard materials
+[main] INFO  com.epam.Loggers_hometask5.Construction  - 2. Construction with above standard materials
+[main] INFO  com.epam.Loggers_hometask5.Construction  - 3. Construction with high standard materials
+[main] INFO  com.epam.Loggers_hometask5.Construction  - 4. Construction with high standard materials and fully automated
+[main] INFO  com.epam.Loggers_hometask5.Construction  - Enter your choice (1-4): 
+[main] INFO  com.epam.Loggers_hometask5.Construction  - Enter the area of house: 
+[main] INFO  com.epam.Loggers_hometask5.Construction  - Cost =93600.0 INR
+© 2020 GitHub, Inc.
